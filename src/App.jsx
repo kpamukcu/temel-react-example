@@ -11,7 +11,7 @@ function App() {
 
   let degerler = [
     {
-      hizmet: 'Grafik Tasarımı Hizmeti',
+      hizmet: 'Grafik Tasarım Hizmeti',
       aciklama: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam illum doloremque quisquam nihil, harum vitae obcaecati fuga sequi id labore'
     },
     {
