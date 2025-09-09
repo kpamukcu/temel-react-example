@@ -1,0 +1,14 @@
+nav a{
+    font-size: 18px;
+    color: #393939;
+}
+
+.navBar{
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+}
+
+#topBar, #topBar a{
+    color:#fff;
+}
